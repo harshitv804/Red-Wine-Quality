@@ -1,5 +1,3 @@
-from select import select
-from turtle import heading, width
 import pandas as pd
 import streamlit as st
 import numpy as np
