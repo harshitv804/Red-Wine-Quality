@@ -1,7 +1,7 @@
 # Wine-informatics-EDA
 ## Exploratory Data Analysis (EDA) of Wine Quality Dataset
 
-## Open in <img src="https://miro.medium.com/max/1400/1*zOmlX_YQko_-_6JV0Ai_XQ.png" width="100" height="40" /> to get started
+## Open in <a href="default.asp"> <img src="https://miro.medium.com/max/1400/1*zOmlX_YQko_-_6JV0Ai_XQ.png" width="100" height="40" /> </a> to get started
 
 ## Explanation of the variables:
 ### Fixed acidity:
