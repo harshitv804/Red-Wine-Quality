@@ -4,7 +4,9 @@
 
 ### The Notebook is also available on Kaggle <a href="https://www.kaggle.com/code/harshit804/red-wine-quality-eda-rf-classification"><img src="https://static.vecteezy.com/system/resources/previews/009/384/880/non_2x/click-here-button-clipart-design-illustration-free-png.png" width="120" height="auto"></a>
 
-### Explanation of the variables:
+### Link to the Dataset <a href="https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009"><img src="https://static.vecteezy.com/system/resources/previews/009/384/880/non_2x/click-here-button-clipart-design-illustration-free-png.png" width="120" height="auto"></a>
+
+# Explanation of the variables:
 #### 1. Fixed acidity:
 - Most acids involved with wine or fixed or non-volatile (do not evaporate readily). Acidity is a characteristic determined by the total sum of acids that a sample contains.
 
