@@ -1,6 +1,6 @@
-# Wine-informatics-EDA
-## Exploratory Data Analysis (EDA) of Wine Quality Dataset
-# Edit In Progress !!
+# Red Wine Quality EDA + ML Classification
+
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*2ayKmvVZCYaLPl-nmLLp5g.png" style="width:400px;"/>
 
 ## Explanation of the variables:
 ### Fixed acidity:
@@ -30,9 +30,9 @@ Describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (v
 ### Sulphates:
 A wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial.
 
-Alcohol:
+### Alcohol:
 This is the percent alcohol content of the wine.
 
-Quality:
+### Quality:
 Output variable (based on sensory data, score between 3 and 8).
 
